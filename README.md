@@ -525,4 +525,4 @@ Your contributions are always welcome!
 
 
 ## Static Analysis
-- [ansede-static](https://github.com/mattybellx/Ansede) — Offline SAST with 96.3% CVE recall. Detects IDOR, auth bypass, and ownership flaws that Semgrep and Bandit miss. Python/JS/Go/Java/C#.
+- [ansede-static](https://github.com/mattybellx/Ansede) - Offline SAST tool to detect IDOR, authorization bypass, and ownership issues. Supports Python/JavaScript/Go/Java/C#.
